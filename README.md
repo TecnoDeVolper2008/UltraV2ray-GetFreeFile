@@ -18,27 +18,30 @@
 
 #### ⚡️ ADD YOUR HOST ⚡️ </> 🇱🇰
 ```javascript
-තාම වැඩ ඉවර නැ ඒක නිසා වැඩ නැ,අද හෙටම Update කරන්නම්.😌😢
+vless://8a8cbb27-d666-45fa-ad21-0e202018a87a@teamanuwa.sajanme.shop:5520?type=ws&path=%2F&host=&security=none#add%20host%20AnUwA-ao96uy7m
+
 ```
 ##### 👻SLT ZOOM
 
 ```javascript
-තාම වැඩ ඉවර නැ ඒක නිසා වැඩ නැ,අද හෙටම Update කරන්නම්.😌😢
+vless://30efd06e-d5b9-4524-9f59-881ae0f58201@techsonicfreev2raycode.duckdns.org:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.zoom.us#TECH%20SONIC%20FREE%20V2RAY
 ```
 ###### 👻DIALOG ZOOM
 
 ```javascript
-තාම වැඩ ඉවර නැ ඒක නිසා වැඩ නැ,අද හෙටම Update කරන්නම්.😌😢
+vless://5d3dc787-ab13-410b-b6bc-b8d753f1535c@teamanuwa.sajanme.shop:443?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=aka.ms#D%20ZOOM%20AnUwA-lh0kdgzc
+
 ```
 ###### 👻DIALOG 348
 
 ```javascript
-තාම වැඩ ඉවර නැ ඒක නිසා වැඩ නැ,අද හෙටම Update කරන්නම්.😌😢
+vless://aedf72b2-8eb1-4a5e-a504-b470b6398763@teamanuwa.sajanme.shop:5529?type=ws&path=%2F&host=m.viber.com&security=none#d%20223%20AnUwA-m0211vdy
+
 ```
 ###### 👻HUTCH ZOOM
 
 ```javascript
-තාම වැඩ ඉවර නැ ඒක නිසා වැඩ නැ,අද හෙටම Update කරන්නම්.😌😢
+vless://30efd06e-d5b9-4524-9f59-881ae0f58201@techsonicfreev2raycode.duckdns.org:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.zoom.us#TECH%20SONIC%20FREE%20V2RAY
 ```
 ###### 👻HUTCH SOCIAL (ANY)
 
@@ -49,38 +52,41 @@
 ###### 👻AIRTEL 389
 
 ```javascript
-තාම වැඩ ඉවර නැ ඒක නිසා වැඩ නැ,අද හෙටම Update කරන්නම්.😌😢
+vless://c37e79de-15fb-424c-9860-63b20e6553be@teamanuwa.sajanme.shop:5519?type=ws&path=%2F&host=android.googleapis.com&security=none#airtel%20AnUwA-tsxzowxj
+
 ```
 ###### 👻AIRTEL 199 
 
 ```javascript
-තාම වැඩ ඉවර නැ ඒක නිසා වැඩ නැ,අද හෙටම Update කරන්නම්.😌😢
+vless://c37e79de-15fb-424c-9860-63b20e6553be@teamanuwa.sajanme.shop:5519?type=ws&path=%2F&host=android.googleapis.com&security=none#airtel%20AnUwA-tsxzowxj
+
 ```
 ###### 👻AIRTEL 293
 
 ```javascript
-තාම වැඩ ඉවර නැ ඒක නිසා වැඩ නැ,අද හෙටම Update කරන්නම්.😌😢
+vless://c37e79de-15fb-424c-9860-63b20e6553be@teamanuwa.sajanme.shop:5519?type=ws&path=%2F&host=android.googleapis.com&security=none#airtel%20AnUwA-tsxzowxj
+
 ```
 
 ###### 👻ALL WHATSAPP
 
 ```javascript
-https://ott.livecricketsl.xyz/playlist/out.php?id=r2gt5ebh0tt2uel145rsgtt0h
+vless://30efd06e-d5b9-4524-9f59-881ae0f58201@techsonicfreev2raycode.duckdns.org:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=Whatsapp.net#TECH%20SONIC%20FREE%20V2RAY
 ```
 ###### 👻ALL FACEBOOK
 
 ```javascript
-තාම වැඩ ඉවර නැ ඒක නිසා වැඩ නැ,අද හෙටම Update කරන්නම්.😌😢
+vless://30efd06e-d5b9-4524-9f59-881ae0f58201@techsonicfreev2raycode.duckdns.org:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.facebook.com#TECH%20SONIC%20FREE%20V2RAY
 ```
 ###### 👻HUTCH GAMING 
 
 ```javascript
-තාම වැඩ ඉවර නැ ඒක නිසා වැඩ නැ,අද හෙටම Update කරන්නම්.😌😢
-```
-###### 👻HAIRTEL FREEDOM 
+vless://1aa2eab8-fb2d-49a7-9891-9df76c454c01@teamanuwa.sajanme.shop:5510?type=ws&path=%2F&host=store.steampowered.com&security=none#hutch%20gamer%20AnUwA-3ixd5tvs
 
-```javascript
-තාම වැඩ ඉවර නැ ඒක නිසා වැඩ නැ,අද හෙටම Update කරන්නම්.😌😢
+```
+###### 👻AIRTEL FREEDOM 
+
+```javascriptvless://30efd06e-d5b9-4524-9f59-881ae0f58201@techsonicfreev2raycode.duckdns.org:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#TECH%20SONIC%20FREE%20V2RAY
 ```
 ###### 👻Dialog 223
 
